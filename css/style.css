@@ -98,7 +98,7 @@ header{
   height: 400px;                /* Parallax effect */
 
   /*Your Code Here*/
-  background-image: url('/images/header.jpg');
+  background-image: url('../images/header.jpg');
   background-repeat: no-repeat;
   /*Set background-image to header.jpg */
  
