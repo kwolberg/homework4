@@ -103,7 +103,10 @@ header{
  
 
   grid-column: 1 / -1;  /*Can you explain what this does?*/
+  /* this makes the header start at the first column and goes all the way to the last column*/ 
+
   grid-row: 1 / auto;   /*Can you rewrite it?*/
+   /* this makes the header start at the first row and uses 'auto' to then have the header end at the last row */ 
 }
 
 header p{
